@@ -1,7 +1,3 @@
-Is the company breaking any laws with their proposal?
-What are the ethical concerns with the company's proposal?
-What could the company do to address these issues?
-
 Scenario 1:
 - As BankingCorp is updating its terms and conditions with the information of the partnership and the algorithm testing, the proposal may not be breaking any laws.
 
